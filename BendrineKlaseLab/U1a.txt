@@ -1,0 +1,6 @@
+﻿Skaitmeniniai signalai ir grandynai;Azuolaitis Azuolas;IFX-5/1
+Saugiu sistemu kurimo pagrindai;Benaitis Benas;IFX-5/2
+Daugiaagenciu sistemu pagrindai;Dovydaitis Dovydas;IFX -5/3
+Realaus laiko sistemos;Edvinaitis Edvinas;IFP-3/1
+Duomenu saugyklos;Giedraitis Giedrius;IFP-3/2
+Elektroniniu dokumentu ir duomenu saugumas;Haroldaitis Haroldas;IFP-3/3

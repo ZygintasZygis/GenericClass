@@ -1,0 +1,49 @@
+Studentu pasirinkti moduliai
+|--------------------------------------------|------------------------------|--------------------|
+|           Modulio pavadinimas              | Studento pavarde ir vardas   |        Grupe       |
+|--------------------------------------------|------------------------------|--------------------|
+| Skaitmeniniai signalai ir grandynai        | Azuolaitis Azuolas           | IFX-5/1            |
+| Saugiu sistemu kurimo pagrindai            | Benaitis Benas               | IFX-5/2            |
+| Daugiaagenciu sistemu pagrindai            | Dovydaitis Dovydas           | IFX -5/3           |
+| Realaus laiko sistemos                     | Edvinaitis Edvinas           | IFP-3/1            |
+| Duomenu saugyklos                          | Giedraitis Giedrius          | IFP-3/2            |
+| Elektroniniu dokumentu ir duomenu saugumas | Haroldaitis Haroldas         | IFP-3/3            |
+|--------------------------------------------|------------------------------|--------------------|
+
+Destytoju sarasas
+|--------------------------------------------|-----------------------------------------|--------------------|
+|           Modulio pavadinimas              | Atsakingo destytojo pavarde ir vardas   |   Kreditu kiekis   |
+|--------------------------------------------|-----------------------------------------|--------------------|
+| Skaitmeniniai signalai ir grandynai        | Jonaitis Jonas                          | 6                  |
+| Saugiu sistemu kurimo pagrindai            | Jonaitis Jonas                          | 6                  |
+| CCCCCCCCCCCCCCCC                           | Laurinaitis Laurynas                    | 6                  |
+| DDDDDDDDDDDDDDDD                           | Mindaugaitis Mindaugas                  | 6                  |
+| EEEEEEEEEEEE                               | Mindaugaitis Mindaugas                  | 6                  |
+| FFFFFFFFFFFFFFFFFF                         | Paulavicius Paulius                     | 6                  |
+|--------------------------------------------|-----------------------------------------|--------------------|
+
+Suformuotas destytoju sarasas be pasikartojimu
+|--------------------------------------------|-----------------------------------------|
+|           Modulio pavadinimas              | Atsakingo destytojo pavarde ir vardas   |
+|--------------------------------------------|-----------------------------------------|
+| Jonaitis Jonas                             | 2                                       |
+| Laurinaitis Laurynas                       | 1                                       |
+| Mindaugaitis Mindaugas                     | 2                                       |
+| Paulavicius Paulius                        | 1                                       |
+|--------------------------------------------|-----------------------------------------|
+
+Po pasalinimo
+|--------------------------------------------|-----------------------------------------|
+|           Modulio pavadinimas              | Atsakingo destytojo pavarde ir vardas   |
+|--------------------------------------------|-----------------------------------------|
+| Jonaitis Jonas                             | 2                                       |
+|--------------------------------------------|-----------------------------------------|
+
+Sarasas po pasalinimo.
+|--------------------------------------------|-----------------------------------------|--------------------|
+|           Modulio pavadinimas              | Atsakingo destytojo pavarde ir vardas   |   Kreditu kiekis   |
+|--------------------------------------------|-----------------------------------------|--------------------|
+| Skaitmeniniai signalai ir grandynai        | Jonaitis Jonas                          | 6                  |
+| Saugiu sistemu kurimo pagrindai            | Jonaitis Jonas                          | 6                  |
+|--------------------------------------------|-----------------------------------------|--------------------|
+

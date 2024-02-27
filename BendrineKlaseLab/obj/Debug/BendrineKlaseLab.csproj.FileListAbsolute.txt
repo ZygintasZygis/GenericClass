@@ -1,0 +1,56 @@
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe.config
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.pdb
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.AssemblyReference.cache
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Form1.resources
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Properties.Resources.resources
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.GenerateResource.cache
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.CoreCompileInputs.cache
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.exe
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.pdb
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe.config
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.pdb
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.AssemblyReference.cache
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Form1.resources
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Properties.Resources.resources
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.GenerateResource.cache
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.CoreCompileInputs.cache
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.exe
+C:\Users\zygceg\Desktop\123\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.pdb
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe.config
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.pdb
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.AssemblyReference.cache
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Form1.resources
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Properties.Resources.resources
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.GenerateResource.cache
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.CoreCompileInputs.cache
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.exe
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.pdb
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\U1a.txt
+C:\Users\zygis\OneDrive\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\U1b.txt
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csprojAssemblyReference.cache
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Form1.resources
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Properties.Resources.resources
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.GenerateResource.cache
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.CoreCompileInputs.cache
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.exe
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.pdb
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\U1a.txt
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\U1b.txt
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe.config
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe
+C:\Users\zygceg\Desktop\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.pdb
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.AssemblyReference.cache
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Form1.resources
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.Properties.Resources.resources
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.GenerateResource.cache
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.csproj.CoreCompileInputs.cache
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.exe
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\obj\Debug\BendrineKlaseLab.pdb
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\U1a.txt
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\U1b.txt
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe.config
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.exe
+C:\Users\zygis\OneDrive\Desktop\New folder\BendrineKlaseLab\BendrineKlaseLab\BendrineKlaseLab\bin\Debug\BendrineKlaseLab.pdb
